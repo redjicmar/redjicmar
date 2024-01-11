@@ -10,7 +10,7 @@ La Red JICMar pretende ser un espacio de intercambio **agradable**, **inclusivo*
 
 La participación en esta comunidad implica el **compromiso de no tomar parte en comportamientos contrarios a estos valores**, garantizando un espacio libre de acoso, intimidación y abuso en todo evento (en persona o virtual) o canal de comunicación (mail, sitio web y redes sociales) auspiciados por la Red JICMar.
 
-Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de las plataformas virtuales y/o evento a discreción del Comité del Código de Conducta.
+Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de las plataformas virtuales y/o evento a discreción de las y los organizadores de la red (más adelante crearemos un Comité de Código de Conducta).
 
 
 # Ejemplos de comportamiento inaceptable
@@ -26,15 +26,15 @@ Esta es un lista que incluye, pero no se limita, a ejemplos de comportamientos i
 
 # Denuncias
 
-Cualquier violación a este código de conducta debe ser denunciada tan pronto como sea posible. Esto se puede realizar de forma directa o anónima, vía electrónica o personalmente. Todas las denuncias serán revisadas por el Comité del Código de Conducta y serán gestionadas de forma confidencial.
+Cualquier violación a este código de conducta debe ser denunciada tan pronto como sea posible. Esto se puede realizar de forma directa o anónima, vía electrónica o personalmente. Todas las denuncias serán revisadas y serán gestionadas de forma confidencial.
 
 ## Electrónicamente
 
-Se pueden hacer denuncias anónimas o no-anónimas enviaando un mensaje por correo electrónico a cualquier miembro del comité (links con mails). Por favor, incluyan capturas de pantalla o copias de todas las conversaciones electrónicas relevantes siempre que sea posible sin comprometer la anonimidad cuando sea pertinente.
+Se pueden hacer denuncias anónimas o no-anónimas enviaando un mensaje por correo electrónico a cualquier miembro organizador de la red. Por favor, incluyan capturas de pantalla o copias de todas las conversaciones electrónicas relevantes siempre que sea posible sin comprometer la anonimidad cuando sea pertinente.
 
 ## Personalmente
 
-Se pueden formular denuncias personalmente ante cualquier miembro de la redl Comité del Código de Conducta presente en un evento. Ésto se llevará a cabo en un espacio seguro donde no se comprometa la anonimidad/seguridad de quien haga la denuncia.
+Se pueden formular denuncias personalmente ante cualquier miembro de la red presente en un evento. Ésto se llevará a cabo en un espacio seguro donde no se comprometa la anonimidad/seguridad de quien haga la denuncia.
 
 
 # Medidas ante comportamientos inadecuados
